@@ -1,1 +1,1 @@
-web: gunicorn irblog.wsgi --log-file -;
+web: gunicorn blogIoren.wsgi --log-file -;
